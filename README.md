@@ -1,4 +1,4 @@
-# Discrete-Probability-Flow
+# SingDiffusion
 
 The source code for our paper "Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models", Pengze Zhang*, Hubery Yin*, Chen Li, Xiaohua Xie, CVPR 2024.
 
