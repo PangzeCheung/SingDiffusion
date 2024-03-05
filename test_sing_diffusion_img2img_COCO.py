@@ -21,7 +21,7 @@ num_images_per_prompt = 1
 stable_diffusion_pipe = StableDiffusionPipeline.from_pretrained(args.sd_model_path, torch_dtype=torch.float16).to(device)
 sing_diffusion_pipe = SingDiffusionPipeline(args.sing_diffusion_path, args.sd15_path, stable_diffusion_pipe, device=device)
 
-with open('./fid_3W_json.json') as fr:
+with open('./COCO_3W_prompt.json') as fr:
     prompts_dict = json.load(fr)
 
 image_id = prompts_dict.keys()
