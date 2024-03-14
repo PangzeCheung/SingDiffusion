@@ -1,6 +1,6 @@
 # SingDiffusion
 
-The source code for our paper "Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models", Pengze Zhang*, Hubery Yin*, Chen Li, Xiaohua Xie, CVPR 2024.
+The source code for our paper "**[Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models](https://arxiv.org/pdf/2403.08381.pdf)**", Pengze Zhang*, Hubery Yin*, Chen Li, Xiaohua Xie, CVPR 2024.
 
 <div align=center>
 <img width="1148" alt="framework" src="https://github.com/PangzeCheung/SingDiffusion/assets/37894893/76fc771d-ec33-4fb5-ab03-ba5265f31a3b">
