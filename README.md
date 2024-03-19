@@ -2,6 +2,10 @@
 
 The source code for our paper "**[Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models](https://arxiv.org/pdf/2403.08381.pdf)**", Pengze Zhang*, Hubery Yin*, Chen Li, Xiaohua Xie, CVPR 2024.
 
+<p align="center">
+  <a href="https://pangzecheung.github.io/SingDiffusion/">Project Page</a> |
+  <a href="https://arxiv.org/abs/2403.08381.pdf">Arxiv</a> 
+</p>
 <div align=center>
 <img width="1148" alt="framework" src="https://github.com/PangzeCheung/SingDiffusion/assets/37894893/76fc771d-ec33-4fb5-ab03-ba5265f31a3b">
 </div>
